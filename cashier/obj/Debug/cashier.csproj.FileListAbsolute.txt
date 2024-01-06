@@ -1,0 +1,10 @@
+C:\Users\phoen\OneDrive\Desktop\projects\cashier\bin\Debug\cashier.exe.config
+C:\Users\phoen\OneDrive\Desktop\projects\cashier\bin\Debug\cashier.exe
+C:\Users\phoen\OneDrive\Desktop\projects\cashier\bin\Debug\cashier.pdb
+C:\Users\phoen\OneDrive\Desktop\projects\cashier\obj\Debug\cashier.csproj.AssemblyReference.cache
+C:\Users\phoen\OneDrive\Desktop\projects\cashier\obj\Debug\cashier.Properties.Resources.resources
+C:\Users\phoen\OneDrive\Desktop\projects\cashier\obj\Debug\cashier.csproj.GenerateResource.cache
+C:\Users\phoen\OneDrive\Desktop\projects\cashier\obj\Debug\cashier.csproj.CoreCompileInputs.cache
+C:\Users\phoen\OneDrive\Desktop\projects\cashier\obj\Debug\cashier.exe
+C:\Users\phoen\OneDrive\Desktop\projects\cashier\obj\Debug\cashier.pdb
+C:\Users\phoen\OneDrive\Desktop\projects\cashier\obj\Debug\cashier.Main.resources
